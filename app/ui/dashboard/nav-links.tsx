@@ -4,7 +4,7 @@ import {
   HomeIcon,
   DocumentDuplicateIcon,
 } from '@heroicons/react/24/outline';
-import Link from 'next/link'; // Tambahkan import ini
+import Link from 'next/link'; //Tambahkan import ini
 
 // Map of links to display in the side navigation.
 // Depending on the size of the application, this would be stored in a database.
